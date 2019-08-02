@@ -51,6 +51,7 @@ sim_distr <- function(m, dataframe, plot_flag){
 
   # Name of trials ------------------------------------------------------------
   naming <- unique(dataframe[,9])
+  dataframe <- dataframe[,1:8]
   # Number of trials ----------------------------------------------------------
   max_trial <- max(dataframe[,1])
 

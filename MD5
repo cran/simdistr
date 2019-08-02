@@ -1,6 +1,7 @@
-279bc44a49694e9440ab5c0e4752f274 *DESCRIPTION
+216f285cee2cfe642f453782d1819ab8 *DESCRIPTION
 7aeed2405d2aa770d184b221772b3cd0 *NAMESPACE
-e8b28a2cc9bd2d9d8efdee681e5cf8f9 *R/CarlisleStouffer.R
+d0ce39b31fec1433ad8d2e8444717787 *NEWS.md
+4b94d6c3d9485bb4d7605abbaf6721d7 *R/CarlisleStouffer.R
 a5cfa461cfcc579c777cb886e4b2f7bd *R/data_example_trials.R
 aafb9870184a84bf67b9a4cce69537d1 *data/example_trials.rda
 7d52aaaf11e70c6353f33c4a63fc1ce4 *man/example_trials.Rd
